@@ -1,6 +1,6 @@
 # MoonTV/LunaTV 配置编辑器
 https://hafrey1.github.io/LunaTV-config  
-
+https://li1791500150-rgb.github.io/LunaTV-config/
 --- 
 
 ## DigitalPlat 免费域名注册链接(us.kg)
